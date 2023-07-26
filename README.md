@@ -2,7 +2,7 @@
 This script automates the process of setting up an FTP server using vsftpd and FileZilla.
 
 # How to use
-Simply run the script with administrative privileges using the command sudo python3 main.py. Fill in all the required information and wait for the script to complete its tasks.
+Simply run the script with administrative privileges using the command `sudo python3 main.py` . Fill in all the required information and wait for the script to complete its tasks.
 At the end of the process, a FileZilla window will pop up. Enter your IP address and the user credentials that you created earlier.
 If you wish to share FTP access with others, you need to perform 'port forwarding' for the specific port that you created. 
 You can easily configure port forwarding in your router settings.
